@@ -1,9 +1,10 @@
-# react-todo-list
 Another React project.
 
 Reference Tutorial [here](https://youtu.be/E1E08i2UJGI)
 
 Concepts learnt when making this project: Creating data and Destroying data.
+
+Click on the task text to mark it as complete and on the cross icon to remove the task
 
 - - - -
 
